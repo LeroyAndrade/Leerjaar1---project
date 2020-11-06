@@ -1,0 +1,169 @@
+*{margin: 0 auto;}
+body
+{font-family: 'Roboto', sans-serif, 'Arial';font-size: 12px; text-align: justify;}
+.widSec{max-width: 80vw;margin: 0 auto;}
+
+.border{border:1px solid black;}
+
+.wrapper{width:79vw;}
+
+.widSec{display: flex;justify-content: flex-start;}
+
+header{display:flex; width: 79vw;}
+.hRelative1{margin-top:40px;}
+figure, img{
+object-fit: cover;
+}
+#hText1{
+font-size: 28px;position: absolute;margin: 220px 0 0 700px;}
+
+
+.c1{color:pink;}.c2{color:#fff;}.c3{color:black}
+#hText2{font-size: 28px;margin: 60px 0 0 400px;}
+
+#hText3{margin: 40px 0 0 60px;}
+h1, h2, h3{font-size: 1rem;}
+.header2> img{object-fit: cover; min-width:150px;}
+.header2> img{object-fit: cover; min-width:68vw;}
+
+ul{clear:left;display:inline;}
+li{margin:0 0 0 400px;
+float:left;display:inline;
+}li:nth-child(1n+2){margin-left:39px;}
+
+li a{
+padding:10px;color:black;text-decoration: none;border-radius: 5%;}
+
+#li1 a:hover{
+text-decoration: none;
+color: pink;
+padding:10px;
+background-color:black;
+}
+
+li a:hover{
+text-decoration: none;
+color: pink;
+padding:10px;
+background-color:black;
+}
+li, a:visited{
+text-decoration: none;
+color: #000;
+}
+#vooropleiding{margin-top:60px;position:relative;}
+
+#schrijfIn
+{margin-top:60px;margin-left:28vw;}
+
+#MedA{margin-left:100px;}
+
+.flexcontainer ~ img{opacity: .5;}
+.flexcontainer{display: flex;max-width:100%;width:100%;}
+
+main {flex: 20%;}
+
+.zijkolom1 {flex: 20%;
+background-color: pink;
+}
+.zijkolom2 {flex: 15%;
+
+}
+/*einde 3 kolom*/
+main, div[class^="zij"] {
+padding: 8px;
+}
+
+/*jumbotron1 foto*/
+#jumboTron{
+margin-top:21px;
+margin-bottom:50px;
+}
+
+
+#full > img{
+width:100%;
+}
+
+
+input[type="text"]
+{
+border-radius: 5%;
+}
+
+#buttonAanmelden{margin:38px 0 0 400px;}
+#voorOpleiding{clear:left;
+margin-top:10px;
+margin-left:100px;
+}
+
+#voorOpleiding::after{margin-top:40px;}
+#contentNews{clear:left;
+margin-top:18px;
+background-color: green;
+width: auto;
+height:200px;
+}
+
+.voorOpleidingText{
+  clear:left;
+  margin-left:100px;margin-top:20px;
+  width:900px; height: auto;
+  background-color:white;
+}
+
+#locSchool
+{
+clear:left;
+margin:100px 0 0 100px;
+}
+
+/*#locSchool figure, #locSchoolFigure{width:100%;}*/
+
+.posFlexImg
+{margin:0 auto;
+margin-left:10vw;
+width: 69vw;
+}
+#minAfbeeldingen{
+  clear:left;
+  margin:0 0 0 100px;
+  width: 1000px; height:auto;
+  background-color:green;
+}
+#minAfbeeldingen > article
+{
+clear:left;
+margin:1px;
+border:solid black;
+width:auto;
+height:60px;
+}
+
+table{
+clear:left;
+text-align: left;
+}
+#contact
+{clear:left;
+margin-top:20px;
+}
+
+#studentWoord{
+margin-top:10vh;
+}
+#video{
+display: grid;
+grid-template-columns: 1fr  1fr 1fr;
+grid-template-columns: auto auto auto;
+min-width:100%;
+}
+
+#contactForm
+{
+padding-top:50px;
+}
+
+label{
+display:block;
+}
