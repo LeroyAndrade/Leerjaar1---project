@@ -16,3 +16,7 @@ De opvolgende projecten werden steeds moeilijker qua niveau en daar neem ik dan 
 
 Wat beter kon en wat ik tevens altijd uitvoer. Schrijf voordat je de website maakt, welke kennis je nodig hebt en of hoe je aan die kennis zult kmoen. Vervolgens maak je proof of concepts en indien in teamverband, laat je hen met de SCRUM/Trellobord, weten wanneer die research is afgerond en wanneer de deadline van een functionaliteit is afgerond. 
 Voorheen ging ik dus meteen programmeren en de projecten leren je om zo snel en goed mogelijk, code te schrijven.
+
+
+#Dowonload plan van aanpak, leerjaar 1
+Url: https://github.com/LeroyAndrade/Leerjaar1---project/raw/main/Plan-van-aanpak-p2-Leroy-Andrade-MG1Bv3(v6).docx
